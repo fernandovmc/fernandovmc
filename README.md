@@ -1,5 +1,6 @@
 Olá! 👋 Me chamo Fernando, tenho 18 anos e sou um estudante da tecnologia!
 No momento procurando um estágio como desenvolvedor de software. 👀
+Porfólio: https://fernandovmc.vercel.app/index.html
 
 - 🏫 Estudando Ciência da Computação na Universidade Paulista, 2/8 Semestre. 🎓 Conclusão dez/2025.
 - 📚 Estou estudando Python orientado à objetos, SQL com Oracle e JAVASCRIPT para backend.
