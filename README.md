@@ -1,5 +1,5 @@
 Olá! 👋 Me chamo Fernando, tenho 19 anos e sou um estudante da tecnologia!
-No momento procurando um estágio como desenvolvedor de software. 👀
+No momento procurando uma oportunidade de emprego na área. 👀
 
 - 🏫 Estudando Ciência da Computação na Universidade Paulista, 3/8 Semestre. 🎓 Conclusão dez/2025.
 - 📚 Meu forte é Python e Data Science. Também estou estudando bastante SQL e Banco de Dados 📈 
