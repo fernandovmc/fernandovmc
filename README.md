@@ -6,4 +6,4 @@ No momento procurando uma oportunidade de emprego na área. 👀
 - 📚 Tenho um básico conhecimento de HTML, CSS, JavaScript e SQL 😉
 - 🌎 Possuo fluência para me expressar em inglês!
 - 📫 Entre em contato comigo via e-mail! fernandovmc.contato@gmail.com
-- ⚡ Hobbies: Me interesso bastante em cinema e fotografia.
+- ⚡ Hobbies: Me interesso bastante em aprender outros idiomas, cinema e fotografia.
