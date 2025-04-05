@@ -1,4 +1,4 @@
-Olá! 👋 Me chamo Fernando, tenho 21 anos e sou um estudante da tecnologia!
+Olá! 👋 Me chamo Fernando, tenho 21 anos e faço parte da "bolha" dev!
 
 - 💼 Trabalhando como Desenvolvedor Back-end na [Class Solutions]([url](https://www.linkedin.com/company/class-solutions-ltda/mycompany/))
 - 🏫 Estudando Ciência da Computação na Universidade Paulista, 7/8 Semestre. 🎓 Conclusão dez/2025.
