@@ -40,7 +40,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- [🧾 ConversorPDF.com](https://github.com/fernandovmc/conversorpdf) – conversor de PDFs em produção com Next.js + Node
+- [🧾 ConversorPDF](https://github.com/fernandovmc/conversorpdf) – conversor de PDFs em produção com Next.js + Node
 - [📦 Freelancr.com.br](https://github.com/fernandovmc/freelancr) *(em desenvolvimento)* – plataforma para freelancers com painel, login e mais
 
 ---
