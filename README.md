@@ -9,7 +9,7 @@
 
 - 👨‍💻 Atualmente atuo com **automação de processos e integração de sistemas via REST APIs**
 - 🚀 Tenho um projeto full-stack em produção: [Conversor PDF](https://conversorpdf.com.br)
-- 🛠️ Trabalho no front-end de uma plataforma colaborativa com login, dashboards, tabelas e muito mais
+- 🛠️ Tenho como hobbie criar projetos utilizando as frameworks mais modernas do mercado.
 - 📚 Em constante aprendizado e apaixonado por resolver problemas com código limpo e escalável
 
 ---
