@@ -42,7 +42,7 @@
 
 - [🧾 ConversorPDF](https://github.com/fernandovmc/conversor-pdf) – conversor de PDFs em produção com Next.js + Node
 - [📦 Freelancr.com.br](https://github.com/vitorledes/freelancr-web) *(em desenvolvimento)* – plataforma para freelancers com painel, login e mais
-
+- [ Amazon Product Scraper](https://amazon-web-scraper-three.vercel.app/) *Feito durante um desafio para entrevista.
 ---
 
 ### 📫 Como me encontrar
