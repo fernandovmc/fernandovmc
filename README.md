@@ -40,7 +40,8 @@
 
 ### 🚀 Projetos em Destaque
 
-- [🧾 ConversorPDF](https://github.com/fernandovmc/conversor-pdf) – conversor de PDFs em produção com Next.js + Node
+- [🤖 AI Workspaces](https://ai-workspaces.vercel.app/) – conversor de PDFs em produção com Next.js + Node
+- [🧾 ConversorPDF](https://conversorpdf.com.br) – conversor de PDFs em produção com Next.js + Node
 - [💼 Freelancr.com.br](https://github.com/vitorledes/freelancr-web) *(em desenvolvimento)* – plataforma para freelancers com painel, login e mais
 - [📦 Amazon Product Scraper](https://amazon-web-scraper-three.vercel.app/) - *Hospedado na Vercel e feito durante um desafio para uma vaga.
 ---
