@@ -63,7 +63,7 @@ Aplicação web para conversão de PDF em produção
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 📦 Amazon Product Scraper - [Demo na Vercel](https://amazon-web-scraper-three.vercel.app/)  
-Projeto hospedado na Vercel construído para uma vaga  
+Projeto hospedado na Vercel construído para uma desafio técnico  
 
 **Tecnologias:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
