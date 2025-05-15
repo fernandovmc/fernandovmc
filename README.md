@@ -19,7 +19,7 @@ const fernando = {
 };
 ```
 
-## Tecnologias
+## Stack
 
 <div align="center">
   
