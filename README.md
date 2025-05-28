@@ -14,8 +14,8 @@
 
 ```javascript
 const fernando = {
-  atualmente: "Trabalhando com automação de processos e integrações de API REST",
-  hobby: "Construindo projetos com os frameworks mais recentes do mercado",
+  atualmente: "Trabalhando como Full-Stack Software Engineer na bamboo DCM",
+  tecnologias: "Utilizo NestJS e React.js!",
   foco: "Aprendizado contínuo e resolução de problemas com código limpo e escalável"
 };
 ```
