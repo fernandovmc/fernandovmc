@@ -47,7 +47,7 @@ const fernando = {
 
 ## Projetos Destacados
 
-### 🤖 AI Workspaces - [Demo na Vercel](https://ai-workspaces.vercel.app/)  
+### 🤖 AI Workspaces - [Demo na Vercel](https://ai-workspaces.vercel.app/)  (Hospedagem do back-end foi desligada).
 Plataforma de interação com IA e cadastro de usuários  
 
 **Tecnologias:**  
@@ -62,7 +62,7 @@ Aplicação web para conversão de PDF em produção
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 📦 Amazon Product Scraper - [Demo na Vercel](https://amazon-web-scraper-three.vercel.app/)  
+### 📦 Amazon Product Scraper - [Demo na Vercel](https://amazon-web-scraper-three.vercel.app/)  (Hospedagem do back-end foi desligada).
 Projeto hospedado na Vercel construído para uma desafio técnico  
 
 **Tecnologias:**  
