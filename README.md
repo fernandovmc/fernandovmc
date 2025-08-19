@@ -10,16 +10,6 @@
   </div>
 </div>
 
-## Sobre Mim
-
-```javascript
-const fernando = {
-  atualmente: "Trabalhando como Full-Stack Software Engineer na bamboo DCM",
-  tecnologias: "Utilizo NestJS e React.js!",
-  foco: "Aprendizado contínuo e resolução de problemas com código limpo e escalável"
-};
-```
-
 ## Stack
 
 <div align="center">
