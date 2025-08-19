@@ -39,35 +39,11 @@ const fernando = {
 </div>
 
 ## Estatísticas GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandovmc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandovmc&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandovmc&show_icons=true&theme=monokai&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=f0f6fc&icon_color=7c3aed&text_color=e6edf3" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandovmc&theme=monokai&hide_border=false&border=30363d&background=0d1117&stroke=30363d&ring=7c3aed&fire=f85149&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=7d8590&sideLabels=7d8590&dates=7d8590" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandovmc&layout=compact&theme=monokai&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=f0f6fc&text_color=e6edf3" width="50%"/>
 </div>
-
-## Projetos Destacados
-
-### 🤖 AI Workspaces - [Demo na Vercel](https://ai-workspaces.vercel.app/)  (Hospedagem do back-end foi desligada).
-Plataforma de interação com IA e cadastro de usuários  
-
-**Tecnologias:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🧾 ConversorPDF - [conversorpdf.com.br](https://conversorpdf.com.br)  
-Aplicação web para conversão de PDF em produção  
-
-**Tecnologias:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 📦 Amazon Product Scraper - [Demo na Vercel](https://amazon-web-scraper-three.vercel.app/)  (Hospedagem do back-end foi desligada).
-Projeto hospedado na Vercel construído para uma desafio técnico  
-
-**Tecnologias:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
